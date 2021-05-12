@@ -6,7 +6,7 @@
 
 ``` javascript
 const lucas = {
-  profession: "Front-End Developer"
+  profession: "Front-End Developer",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Angular],
   backend: [FireBase]
